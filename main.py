@@ -94,3 +94,8 @@ def run():
 
 # Run the Streamlit app
 run()
+
+
+# Footer
+st.write("---")
+st.markdown('<center><a href="https://www.instagram.com/suraj_nate/" target="_blank" style="color:white;text-decoration:none">&copy; 2025 @suraj_nate All rights reserved.</a></center>', unsafe_allow_html=True)
